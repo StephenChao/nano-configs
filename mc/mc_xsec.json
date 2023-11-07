@@ -1,0 +1,16 @@
+{
+"TTWW_TuneCP5_13TeV-madgraph-pythia8": 0.007003,
+"TTWZ_TuneCP5_13TeV-madgraph-pythia8": 0.002453,
+"TTZZ_TuneCP5_13TeV-madgraph-pythia8": 0.001386,
+"TTWH_TuneCP5_13TeV-madgraph-pythia8": 0.001141,
+"TTZH_TuneCP5_13TeV-madgraph-pythia8": 0.00113,
+"TTZHTo4b_TuneCP5_13TeV-madgraph-pythia8": 0.001136,
+"TTZZTo4b_TuneCP5_13TeV-madgraph-pythia8": 0.001391,
+"TT4b_TuneCP5_13TeV_madgraph_pythia8": 0.06784,
+"TTTT_TuneCP5_13TeV-amcatnlo-pythia8": 0.01337,
+"TTHH_TuneCP5_13TeV-madgraph-pythia8": 0.0006655,
+"TTHHTo4b_TuneCP5_13TeV-madgraph-pythia8": 0.0006687,
+"TTTJ_TuneCP5_13TeV-madgraph-pythia8": 0.0007,
+"TTTW_TuneCP5_13TeV-madgraph-pythia8": 0.0013,
+"TTZToBB_TuneCP5_13TeV-amcatnlo-pythia8": 0.1121
+}
